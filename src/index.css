@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  padding-left: 5%;
+  font-family: sans-serif;
+  text-align: center;
+}
+header{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#oldState{
+  font-family: cursive;
+  padding-top: 3%;
+  font-size: x-large;
+  color: blue;
+}
+#newState{
+  font-family: cursive;
+  padding-top: 3%;
+  font-size: x-large;
+  color: red;
+}
+button{
+  background-color: deepskyblue;
+  border-radius: 8px;
+  height: 30px;
+  font-size: large;
+}
+#deleteButton{
+ margin-top: 3%;
+}
